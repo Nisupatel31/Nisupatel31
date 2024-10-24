@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nisupatel31
+- 👋 Hi, I’m Nisarg Patel
 - 👀 I’m interested in Networking,Pentesting,Kali linux,raspberry pi,python...
-- 🌱 I’m currently learning Azure Cloud and CCNA
+- 🌱 I’m currently learning Goolge Cloud and Linux
 - 💞️ I’m looking to collaborate on cloud
 - 📫 How to reach me -patelnisarg330@gmail.com                            
 
